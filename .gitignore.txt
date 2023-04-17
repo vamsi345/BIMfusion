@@ -1,0 +1,28 @@
+# .gitignore
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+dist/
+
+# User-specific files
+*.sln.ide/
+
+# .NET Core
+project.lock.json
+.DS_Store
+*.swp
+*.userprefs
